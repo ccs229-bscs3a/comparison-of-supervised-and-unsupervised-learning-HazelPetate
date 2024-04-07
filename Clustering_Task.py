@@ -6,14 +6,14 @@ def app():
     text = """Comparing Supervised and Unsupervised Learning: KNN vs KMeans"""
     st.subheader(text)
 
-    text = """Louie F. Cervantes, M. Eng. (Information Engineering) \n\n
+    text = """Hazel B. Petate BSCS 3A \n\n
     CCS 229 - Intelligent Systems
     Computer Science Department
     College of Information and Communications Technology
     West Visayas State University"""
     st.text(text)
 
-    st.image('iris_flower.jpg', caption="The Iris Dataset""")
+    st.image('breastcancer.jpg', caption="The Breast Cancer Wisconsin (Diagnostic) Dataset""")
 
     text = """Data App: Supervised vs Unsupervised Learning Performance
     \nThis data app allows users to compare the performance of supervised learning (KNN) and unsupervised 
