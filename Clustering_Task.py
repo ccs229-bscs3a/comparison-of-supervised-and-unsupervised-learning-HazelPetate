@@ -13,7 +13,7 @@ def app():
     West Visayas State University"""
     st.text(text)
 
-    st.image('breastcancer.jpg', caption="The Breast Cancer Wisconsin (Diagnostic) Dataset""")
+    st.image('breastcancer.jpeg', caption="The Breast Cancer Wisconsin (Diagnostic) Dataset""")
 
     text = """Data App: Supervised vs Unsupervised Learning Performance
     \nThis data app allows users to compare the performance of supervised learning (KNN) and unsupervised 
